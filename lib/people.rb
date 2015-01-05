@@ -276,9 +276,6 @@ module People
         :parsed      => false,
         :parse_type  => "",
 
-        :parsed      => false,
-        :parse_type  => "",
-
         :parsed2     => false,
         :parse_type2 => "",
 
